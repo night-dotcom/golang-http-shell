@@ -16,10 +16,10 @@
 
 5.在命令行输入框输入你想运行的cmd命令，回车然后等待3秒刷新页面即可看到返回结果。
 
-命令举例：
-cmd /c dir
-cmd /c ver
-cmd /c tasklist
+命令举例：</br>
+cmd /c dir</br>
+cmd /c ver</br>
+cmd /c tasklist</br>
 
 注意：此公开版本使用的是流量明文传输，有一定机率被安全专家检测到，当然对于一般的菜鸟奥里给就是了。
 
